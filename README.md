@@ -6,6 +6,8 @@ Hello! Welcome to my GitHub Page. I am a Software Developer who likes to delve i
 
 I am a developer with over 2 years of experience, and although I can code in basically any language now, my favorite by far is Java and other C based languages. On the side, enjoy gaming and rock climbing while constantly seeking opportunities to learn and innovate in the Software field.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghostinthetoast&label=Profile%20views&color=0e75b6&style=flat" alt="ghostinthetoast" /> </p>
+
 🎓 I am a Computer Science Masters graduate of Lamar University, where I graduated with a GPA of 4.000 and also got a thesis published and presented at a conference by peers. 🎓
 
 ## My Interests
