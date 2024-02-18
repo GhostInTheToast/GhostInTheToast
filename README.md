@@ -62,6 +62,8 @@ I am a developer with over 2 years of experience, and although I can code in bas
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
+<img src=img.jpg>
+
 ###
 <!--
 <div align="left">
