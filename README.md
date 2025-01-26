@@ -48,8 +48,7 @@ I am a developer with over 3 years of experience, and although I can code in bas
 
 
 
-<img src=img.jpg href="https://ionicabizau.github.io/github-profile-languages/?user=GhostInTheToast">
-
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?GhostInTheToast" frameborder="0"></iframe>
 ###
 <!--
 <div align="left">
