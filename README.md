@@ -1,6 +1,6 @@
 # Introduction
 
-Hello! Welcome to my GitHub Page. I am a Software Developer who likes to delve into all technologies and make fun things at home (which i dump onto here lol)!
+Hello! Welcome to my GitHub Page. I am a Software Developer who likes to delve into all technologies and make fun things at home (which i dump onto here hehe)!
 
 ## About Me
 
