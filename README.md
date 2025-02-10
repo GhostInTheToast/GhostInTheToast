@@ -45,8 +45,6 @@ I am a developer with over 3 years of experience, and although I can code in bas
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/coderbilal/)
 
 ###
-
-
 ###
 <!--
 <div align="left">
