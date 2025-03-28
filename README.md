@@ -12,7 +12,6 @@ I am a developer with over 3 years of experience, and although I can code in bas
 
 ## My Interests
 
-
 🌟 Some of my main interests include:
 
 - Web Applications
