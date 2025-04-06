@@ -1,10 +1,10 @@
 # Introduction
 
-Hello! Welcome to my GitHub Page. I am a Software Developer who likes to delve into all technologies and make fun things at home (which i dump onto here hehe)!
+Hello! Welcome to my GitHub Page. I am a Software Developer who likes to delve into all technologies and make fun things at home (which i dump onto here)!
 
 ## About Me
 
-I am a developer with over 3 years of experience, and although I can code in basically any language now, my favorite by far is Java and other C based languages. On the side, enjoy gaming and rock climbing while constantly seeking opportunities to learn and innovate in the Software field.
+I am a developer with over 4 years of experience, and although I can code in basically any language now, my favorite by far is Java and Python. On the side, enjoy gaming and rock climbing while constantly seeking opportunities to learn and innovate in the Software field.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghostinthetoast&label=Profile%20views&color=0e75b6&style=flat" alt="ghostinthetoast" /> </p>
 
