@@ -48,12 +48,25 @@ Currently, I work at an AI/ML startup where I:
 
 💪 Here are some of the skills and technologies I specialize in:
 
-- Java Spring
-- Web Scraping
-- AWS Cloud
-- API's
-- Database Design
-- Honestly I enjoy doing everything in the field except maybe Blockchain stuff, however I can do a little bit of that too.
+  - AI/ML Model Training & Optimization
+
+  - Java (Spring Boot) & Python
+
+  - Computer Vision & Image Processing
+
+  - Frontend/Backend Development
+
+  - Web Scraping
+
+  - AWS Cloud and GCP
+
+  - API Development
+
+  - Database Design
+
+  - CI/CD, Docker, Containerization
+
+  - Team Leadership & Project Ownership
 
 ## Contributions
 
