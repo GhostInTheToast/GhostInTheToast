@@ -28,11 +28,17 @@ Currently, I work at an AI/ML startup where I:
 
 🌟 Some of my main interests include:
 
-- Web Applications
-- API Development
-- Scripting
-- Machine Learning
-- Containerization (i know this is weird to list, but i just love the concept too much)
+  - Web Applications
+
+  - API Development
+
+  - Scripting
+
+  - Machine Learning
+
+  - Containerization (I know this is weird to list, but I just love the concept too much)
+
+  - Building end-to-end systems — especially ones with a visual or real-time element
 
 ## Contact Me
 
